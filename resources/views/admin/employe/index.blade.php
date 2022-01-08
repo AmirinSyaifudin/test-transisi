@@ -14,8 +14,8 @@
                     <thead>
                         <tr>
                             <th width='5'>ID</th>
-                            <th width='5'>NAMA</th>
-                            <th width='120'>EMAIL</th>
+                            <th width='5'>NAMA EMPLOYE</th>
+                            <th width='120'>EMAIL EMPLOYE</th>
                             <th width='5'>NAMA COMPANY</th>
                             <th width='50'>ACTION</th>
                         </tr>
